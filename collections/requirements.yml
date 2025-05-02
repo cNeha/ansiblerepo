@@ -1,3 +1,5 @@
 ---
 collections:
-  - name: community.vmware
+  - name: ansible.controller
+    src: https://console.redhat.com/api/automation-hub/content/published/
+    
