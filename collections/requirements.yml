@@ -1,5 +1,4 @@
 ---
 collections:
   - name: ansible.controller
-    src: https://console.redhat.com/ansible/automation-hub/ 
-    
+
